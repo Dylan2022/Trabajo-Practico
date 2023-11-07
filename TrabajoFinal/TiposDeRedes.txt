@@ -1,0 +1,5 @@
+Tipos de Redes
+-Por Topología: que es el diseño que tanto fisico, como lógico en el cual se van a encontrar conectadas las maquinas.
+-Por infraestructura: Red OSCI / TCP/IP.
+-Por extensión: LAN, WAN, MAN ,PAN.
+-El otro tipo eran cliente/servidor y P2P(igual-a-igual). 
